@@ -1,0 +1,3 @@
+You can only execute the program in main.py file. The program takes
+in a string of postfix expression and returns machine code equivalent of how
+to evaluate a postfix expression in a text file (output.txt)
